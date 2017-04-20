@@ -10,7 +10,7 @@ var aliMnsSms = new AliMnsSms(mnsConfig);
 
 var sendSmsParam = {
     smsParams: {
-        veryfyCode: '123456' // 短信参数
+        verifyCode: '123456' // 短信参数
     },
     templateCode: 'E123456', // 模板ID
     freeSignName: 'TestSMS', // 短信签名
