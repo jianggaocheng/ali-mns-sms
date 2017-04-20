@@ -1,0 +1,12 @@
+{
+    "name": "ali-mns-sms",
+    "version": "1.0.4",
+    "description": "Send sms by ali-mns",
+    "main": "index.js",
+    "repository": "https://github.com/jianggaocheng/ali-mns-sms.git",
+    "author": "jianggc <jianggaocheng@hotmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "aliyun-mns": "^1.2.1"
+    }
+}
