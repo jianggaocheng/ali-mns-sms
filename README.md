@@ -1,7 +1,10 @@
 # ali-mns-sms
 Ali sms via mns service
+
 var AliMnsSms = require('ali-mns-sms');
+
 var aliMnsSms = this.getInstance();
+
 var sendSmsParam = {
     smsParams: {
         verifyCode: code + '' // 短信参数
