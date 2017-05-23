@@ -1,6 +1,6 @@
 {
     "name": "ali-mns-sms",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Send sms by ali-mns",
     "main": "index.js",
     "repository": "https://github.com/jianggaocheng/ali-mns-sms.git",

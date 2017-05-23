@@ -1,7 +1,7 @@
 # ali-mns-sms
 Ali sms via mns service
 
-var AliMnsSms = require('../');
+``` var AliMnsSms = require('../');
 
 var mnsConfig = {
     accessKeyId: '**accessKeyId**',
